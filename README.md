@@ -2,6 +2,8 @@
 
 In this example you can learn how to use picture element with nextjs using nextjs [getImageProps](https://nextjs.org/docs/app/api-reference/components/image#getimageprops) API.
 
+learn more: [https://medium.com/frontendweb/how-to-use-the-html-picture-element-with-next-js-2760ed587c40](https://medium.com/frontendweb/how-to-use-the-html-picture-element-with-next-js-2760ed587c40)
+
 ## Getting Started
 
 First, clone the following repository with git.
